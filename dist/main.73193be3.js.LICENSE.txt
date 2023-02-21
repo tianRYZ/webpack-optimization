@@ -1,0 +1,7 @@
+/*! @babel/runtime/helpers/asyncToGenerator */
+
+/*! @babel/runtime/regenerator */
+
+/*!*********************!*\
+  !*** ./src/main.js ***!
+  \*********************/
